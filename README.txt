@@ -6,7 +6,7 @@ For example if there were 5 matrices generated and the product of plotRows and p
 Instructions before running the program:
 Because this assignment uses TCP/IP protocols, the IP address for the MATLAB server socket must be static.  Otherwise this program would not be able to create a client connection to the server socket.  
 
-To set the IP address, do the following steps:
+To set the IP address for Windows, do the following steps:
 1.  Open the command prompt and type ipconfig /all
 2.  Open the control panel
 3.  Copy the following path the bar to the left side of the search bar and press enter
